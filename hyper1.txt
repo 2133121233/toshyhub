@@ -8,7 +8,6 @@ Bladeball:CreateButton("RedzHub", function()loadstring(game:HttpGet("https://raw
 end)
 Bladeball:CreateButton("BedolHuh", function()loadstring(game:HttpGet("https://scriptblox.com/raw/Blade-Ball-Bedol-Hub-Next-Generation-8810"))()
 
-
 local Bloxf = PhantomForcesWindow:NewSection("BloxFruits Tab")
 
 Bloxf:CreateButton("RedzHub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
