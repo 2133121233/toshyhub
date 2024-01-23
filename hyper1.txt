@@ -1,0 +1,18 @@
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/2133121233/Teste/main/hyperhub.txt"))()
+
+local PhantomForcesWindow = Library:NewWindow("HYPER HUB V1")
+
+local Bladeball = PhantomForcesWindow:NewSection("BladeBall Tab")
+
+Bladeball:CreateButton("RedzHub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BladeBall/main/eng"))()
+end)
+Bladeball:CreateButton("BedolHuh", function()loadstring(game:HttpGet("https://scriptblox.com/raw/Blade-Ball-Bedol-Hub-Next-Generation-8810"))()
+
+
+local Bloxf = PhantomForcesWindow:NewSection("BloxFruits Tab")
+
+Bloxf:CreateButton("RedzHub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+
+Bloxf:CreateButton("DomadicHub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Domadicoof/Domadicoof/main/Domadichub/NottoGay/Start.ranscript"))()
+
+Bloxf:CreateButton("Sea Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/2133121233/See/main/loader.lua.txt"))()
